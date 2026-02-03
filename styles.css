@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-image: url(https://i.pinimg.com/originals/cf/88/99/cf889965c8db4cace0467ba17cbab3f6.gif);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Login {
+    background-color: #ffffff1a;
+    border-radius: 25px;
+    height: 30px;
+    width: 100px;
+    font-size: 20px;
+    color: #ffffff;
+
+
+}
+
+.input_texto {
+    background-color: #ffffff1a;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    width: 40vh;
+    height: 60px;
+    font-size: 25px;
+    padding: 15px;
+    text-align: center;
+    border: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 15px;
+    margin-top: 20%;
+
+
+}
+
+.input-texto {
+    background-color: #ffffff1a;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+    height: 55px;
+    font-size: 22px;
+    padding: 15px;
+    text-align: center;
+    border: 1px;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    padding: 15px;
+    display: block;
+    margin-right: auto;
+    margin: 1px auto;
+    width: 40vh;
+}
+
+
+.email {
+    color: #ffffff
+}
+
+.senha {
+    color: #ffffff;
+
+
+}
+
+::placeholder {
+    color: #ffffffce;
+
+
+
+
+
+}
+
+.cadastro {
+    color: #fffffff3;
+    border: none;
+    border-radius: 5px;
+    height: none;
+    background: none;
+    display: flex;
+    margin: auto;
+
+
+}
+
+.esqueci_senha {
+    color: #fffffff3;
+    border: none;
+    border-radius: 5px;
+    height: none;
+    background: none;
+    display: flex;
+    margin: auto;
+    margin-top: 20px;
+
+
+
+
+}
+
+
+.Login {
+    font-family: 'Times New Roman', Times, serif, Helvetica, sans-serif;
+    display: block;
+    margin: 0 auto;
+
+}
+
+
+.foto_perfil {
+    border-radius: 100%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    position: absolute;
+    top: 5px;
+    margin-top: 150px;
+
+
+
+}
